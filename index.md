@@ -15,19 +15,19 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr>
-<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">صفحه من در وب سایت کوئرا</a></th>
+<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">My page on the Quera website</a></th>
 <th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
-<th style="color:  red; font-family: Vazir; font-size: 15px;">ایمیل</th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;">email</th>
 </tr>
 <tr>
-<th>( دانلود فرم ارزیابی( چک لیست</th>
+<th>Donload evaluation form (checklist)</th>
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
-<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>موبایل</b></th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>Mobile</b></th>
 </tr>
 <tr>
-<th>رزومه انگلیسی</th>
+<th>Persian resume</th>
 <th><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></th>
-<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>توییتر</b></th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>twitter</b></th>
 </tr>
 </table>
  <hr/>
