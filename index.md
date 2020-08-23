@@ -14,11 +14,11 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
-<tr>
+<tr> 
 <th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">My page on the Quera website</a></th>
 <th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;">email</th>
-</tr>
+</tr> 
 <tr>
 <th>Donload evaluation form (checklist)</th>
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
@@ -34,20 +34,20 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 
 <table border="1">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
-<b>سوابق تحصیلی</b>
+<b>Educational background</b>
 </caption>
 <colgroup style="background-color:#CCC"></colgroup>
 <colgroup style="background-color:#CCC"></colgroup>
 <colgroup style="background-color:#CCC"></colgroup>
 <tr>
-<th style="color:  block; font-family: Vazir; font-size: 15px;">کارشناسی مهندسی کامپیوتر</th>
-<th style="font-family: Vazir; font-size: 15px;">کاردانی مهندسی شیمی</th>
-<th style="font-family: Vazir; font-size: 15px;">دیپلم ریاضی</th>
+<th style="color:  block; font-family: Vazir; font-size: 15px;">Bachelor of Computer Engineering</th>
+<th style="font-family: Vazir; font-size: 15px;">Chemical Engineering Associate</th>
+<th style="font-family: Vazir; font-size: 15px;">math diploma</th>
 </tr>
 <tr>
-<td style="text-align:center; font-family: Vazir; font-size: 15px;">دانشگاه پیام نور</td>
-<td style="text-align:center; font-family: Vazir; font-size: 15px;">دانشگاه سمنان</td>
-<td style="text-align:center; font-family: Vazir; font-size: 15px;">دبیرستان شریعتی سمنان</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">Payam Noor university</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">Semnan University</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">Shariati High School, Semnan</td>
 </tr>
 </table>
 
