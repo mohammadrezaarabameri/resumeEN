@@ -5,25 +5,25 @@
 .
 <hr/>
  <p style="font-family: Vazir; font-size: 20px;">
-I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer engineering student at Payame Noor University, started programming in 2015 with C ++, and after that I went to java and python and specialized in them.
- And now I'm interested in working in artificial intelligence.</p>
+Hi, I am Mohammad Reza Arab Ameri, born on 17/03/1995 in Semnan, single and a 6th semester student of computer engineering at Payame Noor University. I specialized. And now I'm interested in working in artificial intelligence
+</p>
  
  
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr> 
-<th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">My page on the Quera website</a></th>
+
 <th style="color:  red; font-family: Vazir; font-size: 15px;">email:</th>
 <th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
 </tr> 
 <tr>
-<th>Donload evaluation form (checklist)</th>
+
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>Mobile:</b></th>
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
 </tr>
 <tr>
-<th><a href="https://mohammadrezaarabameri.github.io/resume" style="font-family: Vazir; font-size: 15px;">Persian resume</a></th>
+
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>twitter:</b></th>
 <th><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></th>
 </tr> 
@@ -105,3 +105,7 @@ Language
 </tr>
 </table>
  <hr/>
+<p  style="font-family: Vazir; font-size: 25px;"><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">My page on the Quera website</a></p>
+<p  style="font-family: Vazir; font-size: 25px;"><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">دانلود فرم ارزیابی رزومه</a></p>
+<p  style="font-family: Vazir; font-size: 25px;"><a href="https://mohammadrezaarabameri.github.io/resume/" style="font-family: Vazir; font-size: 15px;">Persian resume</a></p>
+<hr/>
