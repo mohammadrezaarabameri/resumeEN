@@ -23,12 +23,12 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
 </tr>
 <tr>
-<th><a href="https://mohammadrezaarabameri.github.io/resume" style="font-family: Vazir; font-size: 15px;">Persian resume</th>
+<th><a href="https://mohammadrezaarabameri.github.io/resume" style="font-family: Vazir; font-size: 15px;">Persian resume</a></th>
 <th style="color:  red; font-family: Vazir; font-size: 15px;"><b>twitter:</b></th>
 <th><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></th>
 </tr> 
 </table>
- <hr/>
+<hr/>
 
 <table border="1">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
