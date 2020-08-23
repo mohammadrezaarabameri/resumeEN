@@ -106,6 +106,6 @@ Language
 </table>
  <hr/>
 <p  style="font-family: Vazir; font-size: 25px;"><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">My page on the Quera website</a></p>
-<p  style="font-family: Vazir; font-size: 25px;"><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">دانلود فرم ارزیابی رزومه</a></p>
+<p  style="font-family: Vazir; font-size: 25px;"><a href="MA_CV_CheckList_AR_3983 (1).pdf" style="font-family: Vazir; font-size: 15px;">Download resume evaluation form</a></p>
 <p  style="font-family: Vazir; font-size: 25px;"><a href="https://mohammadrezaarabameri.github.io/resume/" style="font-family: Vazir; font-size: 15px;">Persian resume</a></p>
 <hr/>
