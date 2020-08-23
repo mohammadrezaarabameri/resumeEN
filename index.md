@@ -1,4 +1,4 @@
-<img dir="rtl" align="right" src="Image.png" width="150" height="150">
+<img dir="rtl" align="right" src="Rmage.png" width="150" height="150">
 .
 <p  style="color:  blue; font-family: Vazir; font-size: 25px;">MohammadRezaArabAmeri</p>
 <p  style="font-family: Vazir; font-size: 20px;">computer engineer</p>
