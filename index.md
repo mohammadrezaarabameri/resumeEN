@@ -53,7 +53,7 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 
 <table border="1" align="left">
 <caption style="color:  red; font-family: Vazir; font-size: 20px;">
-مهارت ها
+Skills
 </caption>
 <tr>
 <th style="font-size: 15px;">python</th>
@@ -75,15 +75,15 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
 <caption style="color:  #6CF; font-family: Vazir; font-size: 20px;">
- سوابق شغلی
+ work experience
 </caption>
 <tr>
-<th style="font-family: Vazir; font-size: 15px;">مدیر سایت و فضامجازی</th>
-<th style="font-family: Vazir; font-size: 15px;">مسئول درآمد</th>
+<th style="font-family: Vazir; font-size: 15px;">Site manager and cyberspace</th>
+<th style="font-family: Vazir; font-size: 15px;">Responsible for income</th>
 </tr>
 <tr>
-<td style="text-align:center; font-family: Vazir; font-size: 15px;">بیمارستان کوثر سمنان</td>
-<td style="text-align:center; font-family: Vazir; font-size: 15px;">کلینیک تخصصی کوثر سمنان</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">Kosar Hospital, Semnan</td>
+<td style="text-align:center; font-family: Vazir; font-size: 15px;">Kosar Semnan Specialized Clinic</td>
 </tr>
 <tr>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">1397 - 1399</td>
@@ -93,13 +93,13 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
 
 <table border="1">
 <caption style=" font-family: Vazir; font-size: 20px;">
-زبان
+Language
 </caption>
 <colgroup style="background-color:#6CF"></colgroup>
 <colgroup style="background-color:#6CF"></colgroup>
 <tr>
-<th style="font-family: Vazir; font-size: 15px;">انگلیسی</th>
-<th style="font-family: Vazir; font-size: 15px;">فارسی</th>
+<th style="font-family: Vazir; font-size: 15px;">English</th>
+<th style="font-family: Vazir; font-size: 15px;">Persian</th>
 </tr>
 <tr>
 <td style="text-align:center; font-family: Vazir; font-size: 15px;">50%</td>
