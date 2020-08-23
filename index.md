@@ -9,26 +9,24 @@ I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer enginee
  And now I'm interested in working in artificial intelligence.</p>
  
  
- <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
- 
 <table width="400" border="1" cellspacing="2" cellpadding="2" style="text-align:center;" align="center">
 <caption style="color:  blue; font-family: Vazir; font-size: 20px;">
 </caption>
 <tr> 
 <th><a href="https://quera.ir/profile/mrameri313" style="font-family: Vazir; font-size: 15px;">My page on the Quera website</a></th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;">email:</th>
 <th><a href="https://mrameri313@gmail.com" style="font-family: Vazir; font-size: 15px;">mrameri313@gmail.com</a></th>
-<th style="color:  red; font-family: Vazir; font-size: 15px;">email</th>
 </tr> 
 <tr>
 <th>Donload evaluation form (checklist)</th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>Mobile:</b></th>
 <th style="color:  blue; font-family: Vazir; font-size: 15px;">09199985002</th>
-<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>Mobile</b></th>
 </tr>
 <tr>
-<th>Persian resume</th>
+<th><a href="https://mohammadrezaarabameri.github.io/resume" style="font-family: Vazir; font-size: 15px;">Persian resume</th>
+<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>twitter:</b></th>
 <th><a href="https://twitter.com/eng_arabameri" style="font-family: Vazir; font-size: 15px;">eng_arabameri</a></th>
-<th style="color:  red; font-family: Vazir; font-size: 15px;"><b>twitter</b></th>
-</tr>
+</tr> 
 </table>
  <hr/>
 
