@@ -4,7 +4,9 @@
 <p  style="font-family: Vazir; font-size: 20px;">computer engineer</p>
 .
 <hr/>
- <p  dir="rtl" align="right" style="font-family: Vazir; font-size: 20px;">من محمد رضا عرب عامری 25 ساله اهل سمنان و دانشجو ترم 6 مهندسی کامپیوتر دانشگاه پیام نور، برنامه نویسی را در سال 94 با c++  شروع کردم و بعد از آن سراغ java و python رفتم و در آن ها تخصص پیدا کردم. و اکنون علاقه مند به فعالیت در هوش مصنوعی هستم.</p>
+ <p style="font-family: Vazir; font-size: 20px;">
+I, Mohammad Reza Arab Ameri, 25, from Semnan and a 6th semester computer engineering student at Payame Noor University, started programming in 2015 with C ++, and after that I went to java and python and specialized in them.
+ And now I'm interested in working in artificial intelligence.</p>
  
  
  <link rel="shortcut icon" href="http://mail.com/favicon.ico" title="mail" />
